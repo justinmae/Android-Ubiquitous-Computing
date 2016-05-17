@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_notification.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/BasicNotifications/Application/src/main/res/drawable-xhdpi-v11/ic_stat_notification.png"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_notification.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/Application/src/main/res/drawable-xhdpi-v11/ic_stat_notification.png"
+    }
+]
