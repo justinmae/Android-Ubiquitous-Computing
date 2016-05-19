@@ -42,6 +42,13 @@ public class MainActivity extends AppCompatActivity {
         builder.setContentText("Text");
         builder.setSubText("SubText");
 
+        builder.addAction(R.mipmap.ic_launcher, "action1", pendingIntent);
+        builder.addAction(R.mipmap.ic_launcher, "action2", pendingIntent);
+
+        NotificationCompat.Action action =
+                new NotificationCompat.Action.Builder(R.mipmap.ic_launcher,
+                        "action3", pendingIntent).build();
+        builder.extend(new NotificationCompat.WearableExtender().addAction(action));
 
         NotificationManagerCompat notificationManagerCompat =
                 NotificationManagerCompat.from(getApplicationContext());
