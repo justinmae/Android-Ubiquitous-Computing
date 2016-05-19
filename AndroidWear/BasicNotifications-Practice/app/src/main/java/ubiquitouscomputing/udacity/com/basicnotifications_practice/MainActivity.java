@@ -42,13 +42,21 @@ public class MainActivity extends AppCompatActivity {
         builder.setContentText("Text");
         builder.setSubText("SubText");
 
+        // Action
         builder.addAction(R.mipmap.ic_launcher, "action1", pendingIntent);
         builder.addAction(R.mipmap.ic_launcher, "action2", pendingIntent);
 
+        // Specific action for wearable
         NotificationCompat.Action action =
                 new NotificationCompat.Action.Builder(R.mipmap.ic_launcher,
                         "action3", pendingIntent).build();
         builder.extend(new NotificationCompat.WearableExtender().addAction(action));
+
+        // big text style
+        NotificationCompat.BigTextStyle bigTextStyle = new NotificationCompat.BigTextStyle();
+        bigTextStyle.bigText("This is the longer event description");
+
+        builder.setStyle(bigTextStyle);
 
         NotificationManagerCompat notificationManagerCompat =
                 NotificationManagerCompat.from(getApplicationContext());
