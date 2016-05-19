@@ -56,7 +56,12 @@ public class MainActivity extends AppCompatActivity {
         NotificationCompat.BigTextStyle bigTextStyle = new NotificationCompat.BigTextStyle();
         bigTextStyle.bigText("This is the longer event description");
 
-        builder.setStyle(bigTextStyle);
+        NotificationCompat.InboxStyle inboxStyle = new NotificationCompat.InboxStyle();
+        inboxStyle.addLine("This is the email line");
+        inboxStyle.setBigContentTitle("This is the BigContent title");
+        inboxStyle.setSummaryText("This is the summary text");
+
+        builder.setStyle(inboxStyle);
 
         NotificationManagerCompat notificationManagerCompat =
                 NotificationManagerCompat.from(getApplicationContext());
