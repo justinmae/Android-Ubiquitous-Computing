@@ -47,10 +47,18 @@ public class MainActivity extends AppCompatActivity {
         builder.addAction(R.mipmap.ic_launcher, "action2", pendingIntent);
 
         // Specific action for wearable
+        // larger background image for wearable
         NotificationCompat.Action action =
                 new NotificationCompat.Action.Builder(R.mipmap.ic_launcher,
                         "action3", pendingIntent).build();
-        builder.extend(new NotificationCompat.WearableExtender().addAction(action));
+        NotificationCompat.WearableExtender wearableExtender =
+                new NotificationCompat.WearableExtender()
+                .setHintHideIcon(true)
+                .setBackground(BitmapFactory.decodeResource(getResources(), R.mipmap.ic_launcher))
+                .addAction(action);
+
+
+        builder.extend(wearableExtender);
 
         // big text style
         NotificationCompat.BigTextStyle bigTextStyle = new NotificationCompat.BigTextStyle();
