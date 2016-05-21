@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/res/merged/debug/drawable-nodpi-v4/content_icon_small.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/src/main/res/drawable-nodpi/content_icon_small.png"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/res/merged/debug/drawable-nodpi-v4/example_big_picture.jpg",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/src/main/res/drawable-nodpi/example_big_picture.jpg"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/res/merged/debug/drawable-nodpi-v4/content_icon_large.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/src/main/res/drawable-nodpi/content_icon_large.png"
+    }
+]

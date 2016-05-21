@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="30025379780845"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="116" />
+    <task
+        name="instant-run-dex"
+        duration="313" />
+    <task
+        name="instant-run-transform"
+        duration="4" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="27334834480950" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="29347904717365" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="29758395443599"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/builds/debug/29758395443599/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="29794021905718"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/builds/debug/29794021905718/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="29820278823151"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/builds/debug/29820278823151/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="29845774100483"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/builds/debug/29845774100483/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="30006514723292"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/builds/debug/30006514723292/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="30025379780845"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

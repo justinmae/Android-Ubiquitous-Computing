@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_b9343ee3a69bad0483b98c081aefe29089403e5d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_0df0fc92e98b15d7b05de3b0f33bfb6e1df02075/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fee366a076c060a19c40230987940306f18c203d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_e6e5707a03bbaa96d22586ea182b6190235e87fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_f1a0d0021e5ad615b2b3766a441e408839c3a3ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.4.0_0f90365ac446453735d357ef670567f034b794e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a3340039c329b8247b6d7862a0088a45af1c17df">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23179fb795a51269fb687f64f57ea2e5933f7de1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_f853c99a000b25c994935d706ce5f08ea075ace6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_4d6eb68f7383f9185b60a778420b61d7666bd7c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a6f06ad204174766702d40c1c372ddcd805945b9">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eaf728701c8646399ef4f43226b4ff9dcb0d7285/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_948c437ee21ed283ce66fa77f05d5df1e1ea3eaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_41b54d1688c017382369000d0dd3e6c99bb38e37/classes.dex" />
+    </item>
+
+</items>
