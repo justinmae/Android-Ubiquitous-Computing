@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/ElizaChat-Sample/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_reply.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/ElizaChat-Sample/Application/src/main/res/drawable-hdpi/ic_full_reply.png"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/ElizaChat-Sample/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/ElizaChat-Sample/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]
