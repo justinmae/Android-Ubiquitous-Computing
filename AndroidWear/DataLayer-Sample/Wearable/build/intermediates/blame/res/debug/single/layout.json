@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/asset_fragment.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/src/main/res/layout/asset_fragment.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/discovery_fragment.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/src/main/res/layout/discovery_fragment.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/data_fragment.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/src/main/res/layout/data_fragment.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DataLayer-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/alert_dialog_wearable.xml"
+    }
+]
