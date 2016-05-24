@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DelayedConfirmation-Sample/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="587609be025bf98f8baaca61d1d701db49f51992">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/DelayedConfirmation-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e991afc6e69eb5d30492714ea84a12c22166ffa/classes.dex" />
+    </item>
+
+</items>
