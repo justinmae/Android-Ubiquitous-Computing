@@ -1,0 +1,1409 @@
+[
+    {
+        "outputFile": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 58,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 60,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 68,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 39,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 45,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 45,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 38,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 57,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 62,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 56,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 57,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 60,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 89,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 79,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 89,
+                    "endOffset": 1199
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1204,
+                    "endColumn": 89,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 79,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 80,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 79,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 79,
+                    "endOffset": 1610
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1615,
+                    "endColumn": 87,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 77,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 87,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1869,
+                    "endColumn": 87,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 77,
+                    "endOffset": 2030
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2035,
+                    "endColumn": 78,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endColumn": 77,
+                    "endOffset": 2187
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2192,
+                    "endColumn": 77,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endColumn": 43,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 43,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 42,
+                    "endOffset": 2396
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2401,
+                    "endColumn": 51,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 57,
+                    "endOffset": 2506
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2511,
+                    "endColumn": 53,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 47,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 55,
+                    "endOffset": 2664
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2669,
+                    "endColumn": 54,
+                    "endOffset": 2719
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2724,
+                    "endColumn": 39,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endColumn": 38,
+                    "endOffset": 2798
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2803,
+                    "endColumn": 44,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 40,
+                    "endOffset": 2884
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endColumn": 56,
+                    "endOffset": 2941
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2946,
+                    "endColumn": 61,
+                    "endOffset": 3003
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3008,
+                    "endColumn": 37,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 54,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3101,
+                    "endColumn": 56,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 39,
+                    "endOffset": 3193
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 9481,
+                    "endColumn": 90,
+                    "endOffset": 9567
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 9572,
+                    "endColumn": 87,
+                    "endOffset": 9655
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 9660,
+                    "endColumn": 89,
+                    "endOffset": 9745
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 9750,
+                    "endColumn": 88,
+                    "endOffset": 9834
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 9839,
+                    "endColumn": 93,
+                    "endOffset": 9928
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 9933,
+                    "endColumn": 95,
+                    "endOffset": 10024
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 10029,
+                    "endColumn": 59,
+                    "endOffset": 10084
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 10089,
+                    "endColumn": 55,
+                    "endOffset": 10140
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 10145,
+                    "endColumn": 63,
+                    "endOffset": 10204
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 10209,
+                    "endColumn": 53,
+                    "endOffset": 10258
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 10263,
+                    "endColumn": 57,
+                    "endOffset": 10316
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 10321,
+                    "endColumn": 63,
+                    "endOffset": 10380
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 10385,
+                    "endColumn": 67,
+                    "endOffset": 10448
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 10453,
+                    "endColumn": 58,
+                    "endOffset": 10507
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 10512,
+                    "endColumn": 56,
+                    "endOffset": 10564
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 10569,
+                    "endColumn": 62,
+                    "endOffset": 10627
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 10632,
+                    "endColumn": 55,
+                    "endOffset": 10683
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 10688,
+                    "endColumn": 61,
+                    "endOffset": 10745
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 10750,
+                    "endColumn": 51,
+                    "endOffset": 10797
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 10802,
+                    "endColumn": 53,
+                    "endOffset": 10851
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 10856,
+                    "endColumn": 55,
+                    "endOffset": 10907
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 10912,
+                    "endColumn": 46,
+                    "endOffset": 10954
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 10959,
+                    "endColumn": 74,
+                    "endOffset": 11029
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 11034,
+                    "endColumn": 49,
+                    "endOffset": 11079
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 11084,
+                    "endColumn": 53,
+                    "endOffset": 11133
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 11138,
+                    "endColumn": 40,
+                    "endOffset": 11174
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 11179,
+                    "endColumn": 65,
+                    "endOffset": 11240
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 11245,
+                    "endColumn": 69,
+                    "endOffset": 11310
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 11315,
+                    "endColumn": 62,
+                    "endOffset": 11373
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 11378,
+                    "endColumn": 61,
+                    "endOffset": 11435
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 11440,
+                    "endColumn": 70,
+                    "endOffset": 11506
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 11511,
+                    "endColumn": 66,
+                    "endOffset": 11573
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/version.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 11578,
+                    "endColumn": 57,
+                    "endOffset": 11631
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11636,
+                    "endColumn": 91,
+                    "endOffset": 11723
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11728,
+                    "endColumn": 87,
+                    "endOffset": 11811
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 11816,
+                    "endColumn": 231,
+                    "endOffset": 12043
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 12048,
+                    "endColumn": 125,
+                    "endOffset": 12169
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 12174,
+                    "endColumn": 180,
+                    "endOffset": 12350
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 12355,
+                    "endColumn": 124,
+                    "endOffset": 12475
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 12480,
+                    "endColumn": 123,
+                    "endOffset": 12599
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 12604,
+                    "endColumn": 212,
+                    "endOffset": 12812
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 12817,
+                    "endColumn": 214,
+                    "endOffset": 13027
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 13032,
+                    "endColumn": 122,
+                    "endOffset": 13150
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 13155,
+                    "endColumn": 164,
+                    "endOffset": 13315
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 13320,
+                    "endColumn": 93,
+                    "endOffset": 13409
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 13414,
+                    "endColumn": 140,
+                    "endOffset": 13550
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 13555,
+                    "endColumn": 89,
+                    "endOffset": 13640
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 13645,
+                    "endColumn": 102,
+                    "endOffset": 13743
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 13748,
+                    "endColumn": 142,
+                    "endOffset": 13886
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 13891,
+                    "endColumn": 99,
+                    "endOffset": 13986
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 13991,
+                    "endColumn": 150,
+                    "endOffset": 14137
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 14142,
+                    "endColumn": 91,
+                    "endOffset": 14229
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 14234,
+                    "endColumn": 218,
+                    "endOffset": 14448
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 14453,
+                    "endColumn": 218,
+                    "endOffset": 14667
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 14672,
+                    "endColumn": 94,
+                    "endOffset": 14762
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 14767,
+                    "endColumn": 104,
+                    "endOffset": 14867
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 14872,
+                    "endColumn": 180,
+                    "endOffset": 15048
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 15053,
+                    "endColumn": 124,
+                    "endOffset": 15173
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 15178,
+                    "endColumn": 174,
+                    "endOffset": 15348
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 15353,
+                    "endColumn": 104,
+                    "endOffset": 15453
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 15458,
+                    "endColumn": 147,
+                    "endOffset": 15601
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 15606,
+                    "endColumn": 62,
+                    "endOffset": 15664
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 15669,
+                    "endColumn": 61,
+                    "endOffset": 15726
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 15731,
+                    "endColumn": 78,
+                    "endOffset": 15805
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 15810,
+                    "endColumn": 61,
+                    "endOffset": 15867
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 15872,
+                    "endColumn": 67,
+                    "endOffset": 15935
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 15940,
+                    "endColumn": 62,
+                    "endOffset": 15998
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 16003,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 16149
+                },
+                "from": {
+                    "file": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/values/theme.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    }
+]

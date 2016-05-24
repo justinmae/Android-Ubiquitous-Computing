@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34f362113b5ecf9b58c6068ea179287f1c228433">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16f21736974d13389c8fbb5ecb84fca52fbd2e66/classes.dex" />
+    </item>
+
+</items>

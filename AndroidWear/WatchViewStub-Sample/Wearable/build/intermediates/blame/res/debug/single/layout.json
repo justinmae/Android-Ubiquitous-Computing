@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/layout/rect_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/layout/rect_layout.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/build/intermediates/res/merged/debug/layout/round_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchViewStub-Sample/Wearable/src/main/res/layout/round_layout.xml"
+    }
+]
