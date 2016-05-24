@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_741ede90cb26ce0ca616b55004aa2b9abae3939a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fee366a076c060a19c40230987940306f18c203d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39772fed45895efdc9373ad3c9762e40595ad42b">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34a83acd9f1512450a6b2f66a85b97b0f37bfe64/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.4.0_236d485f0f0098b9c737b4cdc2b2938922c5438e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_18863a0ba0911f650d8ac7b603810928252e86d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_5b96570bde171efe88a40b819c4d9a9c3c6ea021/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_596d1f37b7c3ad913a1cc24da87d7fff3b497c31/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_bd75629cf27e8b77fe37e4ed09a58607c4e0b27f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_0cbd1f1d5c77330472505d057273166c6f6a2eca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_65885c74accabf7e663356e36dc1511b16c15309/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c3b0534fb77cef0e08a29656d5a23d2a2131608e">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0fd6748ff8b86caf6cf20fa920cc0f5bd8d3365/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_14d9e785a02873bd8dc0455075e764b475e01614/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_a72c91e4a951f54be5a1ddee53011806ab4cda35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/SpeedTracker-Samp/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_125e4cc8f63c623eed41c7193e2dd149e66c6682/classes.dex" />
+    </item>
+
+</items>
