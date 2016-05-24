@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:16:1-51:12
+	package
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:17:11-63
+	android:versionName
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:19:5-74
+MERGED from [com.google.android.support:wearable:1.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/AndroidManifest.xml:4:5-6:41
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.support:wearable:1.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/AndroidManifest.xml:4:5-6:41
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:19:42-71
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:19:15-41
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:21:22-65
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:22:22-75
+uses-feature#android.hardware.type.watch
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:24:19-61
+application
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:26:5-50:19
+MERGED from [com.google.android.support:wearable:1.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:1.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:27:9-36
+uses-library#com.google.android.wearable
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:31:9-93
+	android:required
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:31:66-90
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:31:23-65
+activity#com.example.android.wearable.wear.alwayson.MainActivity
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:39:9-48:20
+	android:label
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:41:13-48
+	android:exported
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:43:13-36
+	android:configChanges
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:42:13-63
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:39:19-89
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/AndroidManifest.xml:46:27-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:22:13-58

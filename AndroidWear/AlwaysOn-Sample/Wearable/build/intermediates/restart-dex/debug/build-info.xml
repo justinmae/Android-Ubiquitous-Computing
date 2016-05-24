@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="280dpi"
+    format="7"
+    timestamp="40164298289101" >
+
+    <task
+        name="javac"
+        duration="102" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="76" />
+    <task
+        name="verifier"
+        duration="57" />
+
+    <artifact
+        location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/outputs/apk/Wearable-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="40164298289101" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/outputs/apk/Wearable-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

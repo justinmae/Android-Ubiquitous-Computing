@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/res/merged/debug/layout/round_activity_main.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/res/layout/round_activity_main.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/res/merged/debug/layout/rect_activity_main.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/src/main/res/layout/rect_activity_main.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/AlwaysOn-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/error_layout.xml"
+    }
+]
