@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="26315575267799" >
+
+    <task
+        name="javac"
+        duration="175" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="95" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/SynchronizedNotifications-Sample/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="26315575267799" >
+        <artifact
+            location="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/SynchronizedNotifications-Sample/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
