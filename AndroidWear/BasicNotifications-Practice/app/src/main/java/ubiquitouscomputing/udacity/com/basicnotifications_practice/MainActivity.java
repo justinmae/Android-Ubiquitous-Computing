@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         inboxStyle.setBigContentTitle("This is the BigContent title");
         inboxStyle.setSummaryText("This is the summary text");
 
-        builder.setStyle(inboxStyle);
+        builder.setStyle(bigTextStyle);
 
         NotificationManagerCompat notificationManagerCompat =
                 NotificationManagerCompat.from(getApplicationContext());
