@@ -8,11 +8,27 @@
         "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/src/main/res/layout/background_picker.xml"
     },
     {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/build/intermediates/res/merged/debug/layout/background_picker.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/src/main/res/layout/background_picker.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/build/intermediates/res/merged/debug/layout/simple_spinner_item.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
         "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/res/merged/debug/layout/layout_divider.xml",
         "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/src/main/res/layout/layout_divider.xml"
     },
     {
         "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications/Application/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/build/intermediates/res/merged/debug/layout/layout_divider.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WearableNotifications-Sample/Application/src/main/res/layout/layout_divider.xml"
     }
 ]
