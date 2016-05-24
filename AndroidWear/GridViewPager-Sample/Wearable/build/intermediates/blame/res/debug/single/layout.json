@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/res/merged/debug/layout/custom_fragment.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/src/main/res/layout/custom_fragment.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/src/main/res/layout/activity_main.xml"
+    }
+]

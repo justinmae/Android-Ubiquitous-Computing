@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cded765e225a5ddde42181a9032518fe3a86bcd6">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fab404b3921700df3ed8a291ee8ab648b1585981/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fee366a076c060a19c40230987940306f18c203d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.4.0_f1e6d500691e8e1de3f963ebac1e2191e7e8ce77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_819e410723b419a01000a122a73cbe3f3d071f6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_1fc381a6f383ad7431c6a9e3e847e95c8f7dcd8a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_2934cd9271aec46eb09032adec88d43366236703/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_d307a06f50021447f8adfb05a24f13d55b254ec8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_6cdd9e945a3b8843b6bafa8dea95c06fdd45de5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8e9e135239c32ceb772b80c9a8d15fff55436777/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b50cc645c4d29de41fd5925af73903a4b6d65e1c">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5dd56c37aad153ed1a8591be418c07d6efa6f00/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_a911b5e75345b76b910fbb8f1bd6025d978ddb8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/GridViewPager-Sample/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_7c77dcbd60edeef111aee41db2caddb7683c138e/classes.dex" />
+    </item>
+
+</items>
