@@ -1,0 +1,2 @@
+CHANGED,/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wearable/watchface/SweepWatchFaceService$Engine$override.class
+CHANGED,/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

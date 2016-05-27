@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/res/merged/debug/layout-v21/dismiss_overlay.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/res/layout-v21/dismiss_overlay.xml"
+    },
+    {
+        "merged": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/justinmae/Udacity/Udacity-UbiquitousComputing/UbiquitousComputing-Practice/AndroidWear/WatchFace-Sample/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]
